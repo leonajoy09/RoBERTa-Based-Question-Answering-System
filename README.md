@@ -16,6 +16,6 @@ Use the pipeline function to simplify the process and get an easy-to-use respons
 
 
 Tech Stack:
-Model & Processing: PyTorch, Transformers (Hugging Face)
-Pretrained Model: deepset/roberta-base-squad2
-Implementation: Python
+- Model & Processing: PyTorch, Transformers (Hugging Face)
+- Pretrained Model: deepset/roberta-base-squad2
+- Implementation: Python
